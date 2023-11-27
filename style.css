@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial;
+    background-color: lightgrey;
+}
+.tablephone {
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+img {
+    width: 220px;
+    height: 280px;
+}
+.aa {
+    flex-wrap: wrap;
+}
+footer {
+    text-align: center;
+    margin-top: 30px;
+}
+.ss {
+    padding-top: 20px;
+}
+main {
+    text-align: center;
+}
+h1 {
+    color: blue;
+}
